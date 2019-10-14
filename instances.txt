@@ -1,0 +1,30 @@
+Class: Child
+Instance: Zakariya
+
+Attributes:
+name = 'Zakariya'
+birthYear = '2012'
+weight = 32
+height = 3
+eyeColor = 'brown'
+
+
+Method:
+GetName(name)
+CalculateAge = currentYear - birthYear
+profile(name, weight, height, calculateAge, eyeColor)
+
+Instance: Yousha
+
+Attributes:
+name = 'Yousha'
+birthYear = '2010'
+weight = 45
+height = 4
+eyeColor = 'brown'
+
+
+Method:
+GetName(name)
+CalculateAge = currentYear - birthYear
+profile(name, weight, height, calculateAge, eyeColor)
